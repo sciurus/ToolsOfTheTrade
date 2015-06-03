@@ -608,11 +608,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Mortar | http://www.mortardata.com/ |  
 
 #### Ops Alerts and Scheduling
-* PagerDuty |
+* PagerDuty | https://www.pagerduty.com/ |Incident Management System for IT monitoring
 * Opsgenie | http://www.opsgenie.com/ | @opsgenie | $0 - $16 user/month | We make alerts work for you | We provide the tools you need to design meaningful, actionable alerts and ensure the right people are notified.  
 
 #### Accounting
-* inDinero
+* inDinero | https://indinero.com/ | Accounting, Taxes, & Payroll for Businesses
 * Xero |  
 
 #### Video Hosting 
@@ -639,10 +639,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Fiverr | http://www.fiverr.com/
 
 #### Deployment
+* Ansible | http://www.ansible.com/
 * Chef | http://www.getchef.com
 * Fabric | http://www.fabfile.org/
 * Puppet | http://puppetlabs.com/
-* Ansible | http://www.ansible.com/
+* Saltstack | http://saltstack.com/
 * Vagrant | http://www.vagrantup.com/
 
 #### SEO Tools
